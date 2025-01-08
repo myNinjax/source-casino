@@ -1,4 +1,4 @@
-https://i.ibb.co.com/5Mbzb5d/Screenshot-3.png
+https://i.ibb.co.com/94QGNzh/pic.png
 
 Script features:
 1) 13 modes - Mines, Crash, Wheel, Dice, Coinflip, HiLo, Blackjack, Tower, Roulette, Stairs, Keno, Plinko, Cases
